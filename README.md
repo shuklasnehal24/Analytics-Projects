@@ -18,5 +18,22 @@ HR employee data including Age, Department, Job Role, Salary, Years at Company, 
 **Tools Used:**  
 Power BI Desktop
 
+## Supply Chain Dashboard
+
+**Project Overview:**  
+This project is a **Power BI dashboard** designed to visualize and monitor Mart's supply chain and sales performance. It helps stakeholders track key metrics and make informed decisions.
+
+**Key Features:**  
+- Visualizations for **OTIF (On Time In Full), OT, VOFR, LIFR** and other supply chain KPIs  
+- Sales analysis including product performance, regional sales trends, and revenue insights  
+- Interactive filters and slicers to explore data dynamically  
+- Dashboard highlights operational efficiency and supply chain bottlenecks  
+
+**Dataset:**  
+Sales and supply chain data from XYZ Mart including product details, delivery performance, sales figures, and logistics metrics.
+
+**Tools Used:**  
+Power BI Desktop
+
 
 

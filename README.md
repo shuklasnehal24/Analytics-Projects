@@ -36,4 +36,42 @@ Sales and supply chain data from XYZ Mart including product details, delivery pe
 Power BI Desktop
 
 
+## Credit Card Data Analysis Projects
+
+### 1. Credit Card Transaction Report
+**Project Overview:**  
+This project analyzes credit card transactions to provide insights into spending patterns, transaction volumes, and anomalies. It helps in understanding customer behavior and identifying trends.
+
+**Key Features:**  
+- Analysis of transaction types, amounts, and frequency  
+- Detection of unusual or suspicious transactions  
+- Visualizations for spending trends and top merchants  
+- Data-driven insights to support financial decision-making  
+
+**Dataset:**  
+Credit card transaction data including transaction date, amount, merchant, and customer ID.
+
+**Tools Used:**  
+Power BI, SQL, Excel (for data extraction and analysis)
+
+
+---
+
+### 2. Credit Card Customer Report
+**Project Overview:**  
+This project focuses on analyzing credit card customer data to understand demographics, usage patterns, and credit behavior. It supports targeted marketing and risk assessment.
+
+**Key Features:**  
+- Customer segmentation based on spending and credit usage  
+- Identification of high-value and at-risk customers  
+- Visual dashboards for key metrics like credit utilization, age, and region  
+- Interactive Power BI visualizations  
+
+**Dataset:**  
+Customer demographic and credit usage data including age, income, credit limit, and transaction history.
+
+**Tools Used:**  
+Power BI, SQL
+
+
 
